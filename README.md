@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mrgaton
-- 👀 I’m interested in c#,c++
-- 🌱 I’m currently learning c#
-- 💞️ I’m looking to collaborate on google brom
+- 👀 I’m interested in c#, Typescript 
+- 🌱 I’m currently learning nothing:(
+- 💞️ I’m looking to collaborate on somewhere brom
 - 📫 How to reach me instagram
 
 <!---
